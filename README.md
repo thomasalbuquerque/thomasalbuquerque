@@ -1,6 +1,8 @@
-### Hi there 👋
+### Greetings 👋
 
-I am a frontend developer with experience in building websites using React with Next.js, Tailwind CSS, Sass, and other tools. Additionally, I have developed some full-stack applications using Node.js, Express, Sequelize, and PostgreSQL for backend and database functionalities. Currently, I am dedicated to improving my frontend skills and actively seeking opportunities to work as a Junior Frontend Developer.
+I am a frontend developer with experience in building websites using React with Next.js, Tailwindcss, Sass, and other tools. Additionally, I have developed some full-stack applications using Node.js, Express, Sequelize, and PostgreSQL for backend and database functionalities.
+
+Currently, I am dedicated to improving my frontend skills and actively seeking opportunities to work as a Junior Frontend Developer.
 
 Below is my stack of technologies, and you can access my portfolio at: [thomasalbuquerque.com](https://thomasalbuquerque.com)
 
