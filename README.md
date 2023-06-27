@@ -1,4 +1,4 @@
-## Greetings 👋
+## Hi 👋
 
 I am a frontend developer with experience in building websites using React with Next.js, Tailwindcss, Sass, and other tools.
 
