@@ -1,10 +1,10 @@
 ## Hi 👋
 
-I am a frontend developer with experience in building websites using React with Next.js, Tailwindcss, Sass, and other tools.
+I am a backend developer with experience in building applications using Node.js, Typescript, Express, Sequelize, PostgreSQL, MongoDB, among other technologies.
 
-Additionally, I have developed some full-stack applications using Node.js, Express, Sequelize, and PostgreSQL for backend and database functionalities.
+I have developed some full-stack applications using Next.js, Tailwindcss, Sass, and other tools for frontend functionalities.
 
-Currently, I am dedicated to improving my frontend skills and actively seeking opportunities to work as a Junior Frontend Developer.
+Currently, I am dedicated to improving my backend skills and I am working as a Junior Backend Developer at [Astro Cash](https://astrocash.me/).
 
 Below is my stack of technologies, and you can access my portfolio at: [thomasalbuquerque.com](https://thomasalbuquerque.com)
 
