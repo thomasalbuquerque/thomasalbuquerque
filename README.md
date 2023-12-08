@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a backend developer with experience in building applications using Node.js, Typescript, Express, Sequelize, PostgreSQL, MongoDB, among other technologies.
+I am a backend developer with experience in building applications using Node.js, Typescript, Express, Prisma, PostgreSQL, MongoDB, among other technologies.
 
 I have developed some full-stack applications using Next.js, Tailwindcss, Sass, and other tools for frontend functionalities.
 
