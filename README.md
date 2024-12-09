@@ -1,10 +1,10 @@
 ## Hi 👋
 
-I am a backend developer with experience in building applications using Node.js, Typescript, NestJS, Express, Prisma, PostgreSQL, MongoDB, among other technologies.
+I am a backend developer with experience in building applications using Node.js, NestJS, Typescript, Prisma ORM, PostgreSQL, among other technologies.
 
 I have developed some full-stack applications using Next.js, Tailwindcss, Sass, and other tools for frontend functionalities.
 
-Currently, I am dedicated to improving my backend skills and I am working as a Junior Backend Developer at [Astro Cash](https://astrocash.me/).
+Currently, I am dedicated to improving my backend skills and I am working as a Junior Backend Developer at [XTHub](https://xthub.com.br/).
 
 Below is my stack of technologies, and you can access my portfolio at: [thomasalbuquerque.com](https://thomasalbuquerque.com)
 
