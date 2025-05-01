@@ -4,7 +4,7 @@ I am a backend developer with experience in building applications using Node.js,
 
 I have developed some full-stack applications using Next.js, Tailwindcss, Sass, and other tools for frontend functionalities.
 
-Currently, I am dedicated to improving my backend skills and I am working as a Junior Backend Developer at [XTHub](https://xthub.com.br/).
+Currently, I am dedicated to improving my backend skills and I am working as a Junior Backend Developer at [UPBET](https://up.bet.br/).
 
 Below is my stack of technologies, and you can access my portfolio at: [thomasalbuquerque.com](https://thomasalbuquerque.com)
 
