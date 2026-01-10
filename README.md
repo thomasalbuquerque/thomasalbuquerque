@@ -1,17 +1,17 @@
 ## Hi 👋
 
-I am a backend developer with experience in building applications using Node.js, NestJS, Typescript, Prisma ORM, PostgreSQL, among other technologies.
+I am a Software Engineer with experience in building applications using Node.js, NestJS, Typescript, Prisma ORM, PostgreSQL, among other technologies.
 
-I have developed some full-stack applications using Next.js, Tailwindcss, Sass, and other tools for frontend functionalities.
+I have developed some full-stack applications using Next.js, React.js, Tailwindcss, and other tools for frontend functionalities.
 
-Currently, I am dedicated to improving my backend skills and I am working as a Backend Software Engineer at [UPBET](https://up.bet.br/).
+Currently, I am focusing on improving my backend skills and working as a backend software engineer at [UPBET](https://up.bet.br/).
 
 Below is my stack of technologies, and you can access my portfolio at: [thomasalbuquerque.com](https://thomasalbuquerque.com)
 
 ## Tech Stack
 
 #### Style Languages, Frameworks and Libraries
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) (https://getbootstrap.com/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 #### Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
